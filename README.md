@@ -16,10 +16,10 @@ I'm a passionate **Software Developer** with a strong focus on **Backend Develop
 
 ## [Backend Project 1: Reparado!](https://github.com/Lochoa457/reparadoAWS)
 
-# Home and Business Repair Services Platform
+### Home and Business Repair Services Platform
 This project is a web application developed to offer home and business repair services in Medellín. Built with Django, Django REST Framework, Bootstrap, CSS, HTML, and JavaScript, the platform connects clients with local repair professionals, facilitating easy scheduling and management of repair requests.
 
-# Plataforma de Servicios de Reparación a Domicilio
+### Plataforma de Servicios de Reparación a Domicilio
 Este proyecto es una aplicación web desarrollada para ofrecer servicios de reparación a domicilio para casas y empresas en Medellín. Construida con Django, Django REST Framework, Bootstrap, CSS, HTML y JavaScript, la plataforma conecta a los clientes con profesionales locales de reparación, facilitando la programación y gestión de las solicitudes de reparación.
 
 ---
